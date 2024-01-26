@@ -1,0 +1,26 @@
+8
+infos/Londres.txt
+infos/Bangkok.txt
+infos/Rio.txt
+infos/Atlanta.txt
+infos/Captown.txt
+infos/Dubai.txt
+infos/Shanghai.txt
+infos/Melbourne.txt
+16
+A L 6800
+A R 7700
+R L 7300
+R C 8800
+L C 7400
+L S 9200
+L B 9500
+L D 5500
+C D 4000
+C S 9800
+C B 7300
+D B 4900
+D S 6400
+B M 7500
+B S 2900
+S M 7900
